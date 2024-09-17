@@ -3,6 +3,6 @@
 <h2>👨💻 IT Projects:</h2>
 
 JAVA</b>
-  - [Login Form](https://github.com/NatureProductions/register-and-login/blob/main/README.md])
+  - [Login Form](https://github.com/NatureProductions/register-and-login])
 
 

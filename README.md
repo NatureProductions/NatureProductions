@@ -1,6 +1,8 @@
-<h1>Hi, I’m Mveloe Mahlalela!  Im doing Information Technology at Likokwing University Of Creative Technology</h1>
+<h1>Hi, I’m Mveloe Mahlalela!👨  Im doing Information Technology at Likokwing University Of Creative Technology</h1>
 
-<h2>👨💻 IT Projects:</h2>
+<h2> I would like to share some of my project that i have done to show my capabity to do more in the room of Programing👨💻 IT Projects:</h2>
+</br>
+</br>
 
 List of projects</b>
   - [Java Login Form (JFrame)](https://github.com/NatureProductions/register-and-login)

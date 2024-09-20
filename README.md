@@ -1,4 +1,4 @@
-<h1>Hi, I’m Mveloe Mahlalela! </h1>
+<h1>Hi, I’m Mveloe Mahlalela!  Im doing Information Technology at Likokwing University Of Creative Technology</h1>
 
 <h2>👨💻 IT Projects:</h2>
 

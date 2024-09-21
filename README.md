@@ -10,6 +10,5 @@ List of projects</b>
   - [FOOD ORDERING SYSTEM (JAVA)](https://github.com/NatureProductions/Food-Ordering-)
   - [FARMERS AGRICULTURAL SYSTEM (C++)](https://github.com/NatureProductions/C-Agriculture-)
   
-![image](https://github.com/user-attachments/assets/c0fa8f84-0c8a-4150-84d0-ae99c0efbc1e)
+ ![image](https://github.com/user-attachments/assets/037e7e0c-1cad-4ec9-ade8-1a960a702291)
 
-  

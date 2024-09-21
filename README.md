@@ -11,5 +11,5 @@ List of projects</b>
   - [FARMERS AGRICULTURAL SYSTEM (C++)](https://github.com/NatureProductions/C-Agriculture-)
   
 
-![image](https://github.com/user-attachments/assets/2d926d2c-8c20-436c-8cdd-85298dc1981e)
+
 

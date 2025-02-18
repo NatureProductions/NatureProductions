@@ -10,8 +10,8 @@ List of projects</b>
   - [PHOTOSHOP POSTS AND LOGOS](https://github.com/NatureProductions/Photoshop-)
   - [FOOD ORDERING SYSTEM (JAVA)](https://github.com/NatureProductions/Food-Ordering-)
   - [FARMERS AGRICULTURAL SYSTEM (C++)](https://github.com/NatureProductions/C-Agriculture-)
-  - [IMBUBE MATHON (JSP)](https://github.com/NatureProductions/Contruction-Site-)
-  - [POINT OF SALE (JFORMs)](https://github.com/NatureProductions/Point-of-Sale.git)
+  - [IMBUBE MATHON (JSP)](https://github.com/NatureProductions/Contruction-Site)
+  - [POINT OF SALE (JFORMs)](https://github.com/NatureProductions/Point-of-Sale)
   
 
 
